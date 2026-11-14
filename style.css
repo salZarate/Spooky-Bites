@@ -106,7 +106,6 @@ footer {
     align-items: center;
     gap: 12px;
   }
-}
 nav a {
     margin: 0 6px;
   }
@@ -118,3 +117,4 @@ nav a {
   main {
     padding: 25px 5%;
   }
+}
